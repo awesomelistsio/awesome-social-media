@@ -24,6 +24,7 @@
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
 - [Later](https://later.com) - Visual social media planner and scheduler.
 - [TweetDeck](https://tweetdeck.twitter.com) - Monitor and manage Twitter activity with customizable columns.
+- [Reposter.Social](https://Reposter.Social) - Cross-post between socia media platforms easily (X, Bluesky, Mastodon, Threads, Linkedin, etc.).
 
 ## Content Creation
 - [Canva](https://canva.com) - Create stunning visuals and graphics for social media.
